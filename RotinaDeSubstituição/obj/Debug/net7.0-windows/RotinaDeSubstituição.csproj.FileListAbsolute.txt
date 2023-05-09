@@ -1,0 +1,17 @@
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\bin\Debug\net7.0-windows\RotinaDeSubstituição.exe
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\bin\Debug\net7.0-windows\RotinaDeSubstituição.deps.json
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\bin\Debug\net7.0-windows\RotinaDeSubstituição.runtimeconfig.json
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\bin\Debug\net7.0-windows\RotinaDeSubstituição.dll
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\bin\Debug\net7.0-windows\RotinaDeSubstituição.pdb
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.csproj.AssemblyReference.cache
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.Form1.resources
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.csproj.GenerateResource.cache
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.AssemblyInfoInputs.cache
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.AssemblyInfo.cs
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.csproj.CoreCompileInputs.cache
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.dll
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\refint\RotinaDeSubstituição.dll
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.pdb
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\RotinaDeSubstituição.genruntimeconfig.cache
+C:\Users\03461471232\source\repos\RotinaDeSubstituição\RotinaDeSubstituição\obj\Debug\net7.0-windows\ref\RotinaDeSubstituição.dll
