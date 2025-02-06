@@ -11,7 +11,7 @@ namespace RotinaDeSubstituição
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            string origem = @"C:\Users\03461471232\Documents\Arquivosparaler";
+            string origem = @"C:\Users\cpf\Documents\Arquivosparaler";
             string destino = @"D:\Nova pasta";
 
             Directory.CreateDirectory(destino);
